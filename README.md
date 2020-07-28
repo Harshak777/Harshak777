@@ -3,8 +3,6 @@
 <!--
 **Harshak777/Harshak777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--<p><a href="https://https:///"><img src="https://img.shields.io/badge/website-black.svg?style=for-the-badge&logo=jekyll&logoColor=white" height=35></a>-->
+<a href="https://https://github.com/Harshak777"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=whitee" height=35></a> 
+<a href="https://linkedin.com/in/harshak777"><img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a>
+<a href="https://www.facebook.com/Harshak Krishnaa/"><img src="https://img.shields.io/badge/facebook-black.svg?style=for-the-badge&logo=facebook&logoColor=white" height=35></a>
+</p>
+ 
+ ![Alt Text](https://github.com/Sierra007117/Sierra007117/blob/master/wp.gif)
