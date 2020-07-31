@@ -20,6 +20,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Srinath-R&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
  
  ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
