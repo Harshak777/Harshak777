@@ -16,6 +16,7 @@
 <a href="https://github.com/Harshak777"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=whitee" height=35></a> 
 <a href="https://linkedin.com/in/Harshakkrishnaa777"><img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a>
 <a href="https://www.facebook.com/Harshakkrishnaak/"><img src="https://img.shields.io/badge/facebook-black.svg?style=for-the-badge&logo=facebook&logoColor=white" height=35></a>
+<a href="https://telegram.me/harshak777"><img src="https://img.shields.io/badge/telegram-black.svg?style=for-the-badge&logo=telegram&logoColor=white" height=35></a>
 </p>
 
 
