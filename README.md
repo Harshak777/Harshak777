@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Web Developer,Blockchain and Deep Learning Enthusiast.
+Web Developer, Blockchain and Deep Learning Enthusiast.
 - 🔭 I’m currently working on ReactJS, VueJS as Frontend and Ethereum, Hedera as Backend.
 - 🌱 I’m currently learning to become a Web3 Developer!!!
 - 📫 How to reach me:
