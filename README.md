@@ -1,4 +1,4 @@
-### Welcome to my repository peeps 👋
+## Welcome to my repository peeps 👋
 
 <!--
 **Harshak777/Harshak777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Web Developer, Blockchain and Deep Learning Enthusiast.
+# Web Developer, Blockchain and Deep Learning Enthusiast.
 - 🔭 I’m currently working on ReactJS, VueJS as Frontend and Ethereum, Hedera Hashgraph as Backend.
 - 🌱 I’m currently learning to become a Web3 Developer!!!
 - 📫 How to reach me:
