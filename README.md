@@ -12,6 +12,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Web Developer,Blockchain and Deep Learning Enthusiast.
+- 🔭 I’m currently working on ReactJS, VueJS as Frontend and Ethereum, Hedera as Backend.
+- 🌱 I’m currently learning to become a Web3 Developer!!!
+- 📫 How to reach me:
 <!--<p><a href="https://https:///"><img src="https://img.shields.io/badge/website-black.svg?style=for-the-badge&logo=jekyll&logoColor=white" height=35></a>-->
 <a href="https://github.com/Harshak777"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=whitee" height=35></a> 
 <a href="https://linkedin.com/in/Harshakkrishnaa777"><img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a>
