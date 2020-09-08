@@ -23,7 +23,7 @@
 <a href="https://telegram.me/harshak777"><img src="https://img.shields.io/badge/telegram-black.svg?style=for-the-badge&logo=telegram&logoColor=white" height=35></a>
 </p>
 
-<p>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshak777&show_icons=true" />
 
 ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
