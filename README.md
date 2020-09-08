@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/Harshakkrishnaak/"><img src="https://img.shields.io/badge/facebook-black.svg?style=for-the-badge&logo=facebook&logoColor=white" height=35></a>
 <a href="https://telegram.me/harshak777"><img src="https://img.shields.io/badge/telegram-black.svg?style=for-the-badge&logo=telegram&logoColor=white" height=35></a>
 </p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshak777&show_icons=true" />
 <p>
  <p align="right">
 
