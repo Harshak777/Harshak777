@@ -50,10 +50,10 @@
   <img align="center" alt="Harshak's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://telegram.me/harshak777" target="blank">
-  <img align="center" alt="Harshak's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Harshak's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.facebook.com/Harshakkrishnaak/" target="blank">
-  <img align="center" alt="Harshak's Facebbok" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Harshak's Facebbok" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
  </a> 
   <br/>
   <br/>
