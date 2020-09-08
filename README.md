@@ -23,16 +23,16 @@
 <a href="https://telegram.me/harshak777"><img src="https://img.shields.io/badge/telegram-black.svg?style=for-the-badge&logo=telegram&logoColor=white" height=35></a>
 </p>
 
+ ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
+
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=harshak777&show_icons=true" alt="https://github.com/harshak777" /> 
 
-![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
-
  </p>
  
-<a href="https://codestats.net/users/WEGFan">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+<a href="https://codestats.net/users/harshak777">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/harshak777?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="harshak777's Code::Stats history graph" />
 </a>
  
- ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
+ ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
