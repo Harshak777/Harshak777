@@ -28,3 +28,5 @@
 ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
  
  ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
+
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshak777&show_icons=true" alt="https://github.com/harshak777" /> </p>
