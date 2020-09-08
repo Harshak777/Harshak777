@@ -14,7 +14,7 @@
 -->
 ### Web Developer, Blockchain and Deep Learning Enthusiast.
 - 🔭 I’m currently working on ReactJS, VueJS as Frontend and Ethereum, Hedera Hashgraph as Backend.
-- 🌱 I’m currently learning to become a Web3 Developer!!!
+- 🌱 I’m progressively sharpening my skills to become a Web3 Developer!!!
 
  ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
 
