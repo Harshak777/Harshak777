@@ -58,7 +58,6 @@
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
-  ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
 </p>
-
+<p align="center">  ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square) </p>
  
