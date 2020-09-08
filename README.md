@@ -37,7 +37,7 @@
 -->
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/Harshak777/Harshak777/blob/master/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://linkedin.com/in/Harshakkrishnaa777" target="blank">
@@ -58,8 +58,7 @@
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
- 
- ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
 </p>
 
  
