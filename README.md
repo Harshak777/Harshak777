@@ -28,8 +28,8 @@
 ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshak777&show_icons=true" alt="https://github.com/harshak777" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshak777&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshak777&show_icons=true" alt="https://github.com/harshak777" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshak777&show_icons=true" />
+
 
  
  ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
