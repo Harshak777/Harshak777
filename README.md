@@ -26,12 +26,38 @@
 
  </p>
 
+<!--
  - 📫 How to reach me:
 <!--<p><a href="https://https:///"><img src="https://img.shields.io/badge/website-black.svg?style=for-the-badge&logo=jekyll&logoColor=white" height=35></a>-->
 <a href="https://github.com/Harshak777"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=whitee" height=35></a> 
 <a href="https://linkedin.com/in/Harshakkrishnaa777"><img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a>
 <a href="https://www.facebook.com/Harshakkrishnaak/"><img src="https://img.shields.io/badge/facebook-black.svg?style=for-the-badge&logo=facebook&logoColor=white" height=35></a>
 <a href="https://telegram.me/harshak777"><img src="https://img.shields.io/badge/telegram-black.svg?style=for-the-badge&logo=telegram&logoColor=white" height=35></a>
+</p>
+-->
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://linkedin.com/in/Harshakkrishnaa777" target="blank">
+  <img align="center" alt="Harshak's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/harshak_krishnaa/" target="blank">
+  <img align="center" alt="Harshak's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/harshak_777" target="blank">
+  <img align="center" alt="Harshak's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://telegram.me/harshak777" target="blank">
+  <img align="center" alt="Harshak's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
+ </a>
+ <a href="https://www.facebook.com/Harshakkrishnaak/" target="blank">
+  <img align="center" alt="Harshak's Facebbok" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+ </a> 
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square)
