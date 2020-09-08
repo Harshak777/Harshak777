@@ -59,5 +59,5 @@
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
-<p align="center">  ![](https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square) </p>
+<p align="center"><img alt="Profile Count" src="https://komarev.com/ghpvc/?username=Harshak777&color=brightgreen&style=flat-square" />  </p>
  
