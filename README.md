@@ -13,8 +13,8 @@
 - ⚡ Fun fact: ...
 -->
 ### Web Developer, Blockchain and Deep Learning Enthusiast.
-- 🔭 I’m currently working on ReactJS, VueJS as Frontend and Ethereum, Hedera Hashgraph as Backend.
-- 🌱 I’m progressively sharpening my skills to become a Web3 Developer!!!
+- ⚡ I'm currently pursuing my Masters of Science in Comouter Science degree at the Arizona State University, Tempe campus.
+- 🌱 I love to work with ReactJS⚛️, Angular, NodeJS and Java☕️ (sometimes Python🐍 too).
 
  ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
 
