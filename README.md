@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 ### Web Developer, Blockchain and Deep Learning Enthusiast.
-- ⚡ I'm currently pursuing my Masters of Science in Comouter Science degree at the Arizona State University, Tempe campus.
+- ⚡ I'm currently pursuing my Masters of Science in Computer Science degree at the Arizona State University, Tempe campus.
 - 🌱 I love to work with ReactJS⚛️, Angular, NodeJS and Java☕️ (sometimes Python🐍 too).
 
  ![Alt Text](https://github.com/Harshak777/Harshak777/blob/master/wp.gif)
