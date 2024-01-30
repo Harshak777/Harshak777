@@ -37,7 +37,7 @@
 -->
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/Harshak777/Harshak777/blob/master/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/Harshak777/Harshak777/blob/master/Handshake.gif" height="33px" width="33px"/></h3> 
 </div>
 <p align="center">
  <a href="https://linkedin.com/in/Harshakkrishnaa777" target="blank">
