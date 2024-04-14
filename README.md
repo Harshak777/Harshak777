@@ -20,7 +20,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshak777&show_icons=true" alt="https://github.com/harshak777" /> 
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=harshak777&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=harshak777&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshak777&show_icons=true" />
 
